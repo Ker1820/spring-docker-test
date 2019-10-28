@@ -1,0 +1,6 @@
+FROM mysql
+
+RUN
+
+ENV MYSQL_ROOT_PASSWORD root
+
